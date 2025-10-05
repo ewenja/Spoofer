@@ -1,0 +1,48 @@
+﻿  dsc.cpp
+  connection_win.cpp
+  discord_register_win.cpp
+  discord_rpc.cpp
+  rpc_connection.cpp
+  serialization.cpp
+  kr.cpp
+\Discord RPC\dsc.cpp(1,1): error C1083: 無法開啟來源檔案: 'Discord RPC\dsc.cpp': No such file or directory
+  (編譯來源檔案 '/Discord%20RPC/dsc.cpp')
+  
+\Discord RPC\SourceFiles\connection_win.cpp(1,1): error C1083: 無法開啟來源檔案: 'Discord RPC\SourceFiles\connection_win.cpp': No such file or directory
+  (編譯來源檔案 '/Discord%20RPC/SourceFiles/connection_win.cpp')
+  
+\Discord RPC\SourceFiles\discord_register_win.cpp(1,1): error C1083: 無法開啟來源檔案: 'Discord RPC\SourceFiles\discord_register_win.cpp': No such file or directory
+  (編譯來源檔案 '/Discord%20RPC/SourceFiles/discord_register_win.cpp')
+  
+\Discord RPC\SourceFiles\discord_rpc.cpp(1,1): error C1083: 無法開啟來源檔案: 'Discord RPC\SourceFiles\discord_rpc.cpp': No such file or directory
+  (編譯來源檔案 '/Discord%20RPC/SourceFiles/discord_rpc.cpp')
+  
+\Discord RPC\SourceFiles\rpc_connection.cpp(1,1): error C1083: 無法開啟來源檔案: 'Discord RPC\SourceFiles\rpc_connection.cpp': No such file or directory
+  (編譯來源檔案 '/Discord%20RPC/SourceFiles/rpc_connection.cpp')
+  
+\Discord RPC\SourceFiles\serialization.cpp(1,1): error C1083: 無法開啟來源檔案: 'Discord RPC\SourceFiles\serialization.cpp': No such file or directory
+  (編譯來源檔案 '/Discord%20RPC/SourceFiles/serialization.cpp')
+  
+C:\Users\USER\Desktop\KRPACIFIC-HWID-Spoofer-Cleaner\other.h(22,10): error C1083: 無法開啟包含檔案: 'udmanmapper/intel_driver.hpp': No such file or directory
+  (編譯來源檔案 'kr.cpp')
+  
+  intel_driver.cpp
+\udmanmapper\intel_driver.cpp(1,1): error C1083: 無法開啟來源檔案: 'udmanmapper\intel_driver.cpp': No such file or directory
+  (編譯來源檔案 '/udmanmapper/intel_driver.cpp')
+  
+  portable_executable.cpp
+\udmanmapper\portable_executable.cpp(1,1): error C1083: 無法開啟來源檔案: 'udmanmapper\portable_executable.cpp': No such file or directory
+  (編譯來源檔案 '/udmanmapper/portable_executable.cpp')
+  
+  service.cpp
+\udmanmapper\service.cpp(1,1): error C1083: 無法開啟來源檔案: 'udmanmapper\service.cpp': No such file or directory
+  (編譯來源檔案 '/udmanmapper/service.cpp')
+  
+  udmanmapper.cpp
+\udmanmapper\udmanmapper.cpp(1,1): error C1083: 無法開啟來源檔案: 'udmanmapper\udmanmapper.cpp': No such file or directory
+  (編譯來源檔案 '/udmanmapper/udmanmapper.cpp')
+  
+  utils.cpp
+\udmanmapper\utils.cpp(1,1): error C1083: 無法開啟來源檔案: 'udmanmapper\utils.cpp': No such file or directory
+  (編譯來源檔案 '/udmanmapper/utils.cpp')
+  
